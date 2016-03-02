@@ -6,5 +6,5 @@ package za.ac.cput.cuanlee;
  */
 public class Cuan 
 {
-
+	private int num = 1;
 }
